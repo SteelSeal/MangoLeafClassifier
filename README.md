@@ -6,6 +6,6 @@ A project made by Kantaphon Sujjapong to classify a mango leaf image given by th
 
 ---
 
-### 📂 Datasets & Training Notebooks
+### 📂 Datasets
 All images dataset (1,700+ images) are available here:
 👉 [Google Drive Folder](https://drive.google.com/drive/folders/1NBCI7iu341H14mJHfJU1eNTxNhT9uZq0?usp=sharing)
